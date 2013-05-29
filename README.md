@@ -5,4 +5,4 @@ This is an OSX Agent APP for TeamDisk Project. It's used to Mount Remote WebDAV 
 
 #ScreenShot
 
-![screenshot]()
+![screenshot](/screenshot.png)
