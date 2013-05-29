@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'connectMac' target in the 'connectMac' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
